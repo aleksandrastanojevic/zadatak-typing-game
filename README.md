@@ -1,6 +1,6 @@
 # Zadatak 2: Typing game
 
-Create an alphabet reﬂex game based on the attached mockup. 
+**Create an alphabet reﬂex game based on the attached mockup.**
 
 When user starts a game it should set off the counter that will randomly switch numbers between 1-26. 
 
@@ -14,10 +14,8 @@ While hame is in progress, button that starts the game will change text to “st
 
 Tips: 
 
-Letter input should happen on keypress.
+- Letter input should happen on keypress.
+- When making a random counter function keep in mind not to have duplicated numbers in one gameplay.
+- Task should be done in vanilla JS. It should be optimized from Chrome, so most of the new JS syntax can be used. 
 
-When making a random counter function keep in mind not to have duplicated numbers in one gameplay.
-
-Task should be done in vanilla JS. It should be optimized from Chrome, so most of the new JS syntax can be used. 
-
-We don’t care about the design and styling. Attached screen is only a mockup. You can change the layout if needed, and use any of the CSS frameworks or themes. 
+We don’t care about the design and styling. Attached screen is only a mockup. You can change the layout if needed, and use any of the CSS frameworks or themes.
