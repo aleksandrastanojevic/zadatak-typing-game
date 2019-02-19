@@ -1,3 +1,5 @@
+![](screen.png)
+
 # Zadatak 2: Typing game
 
 **Create an alphabet reﬂex game based on the attached mockup.**
