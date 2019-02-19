@@ -10,7 +10,7 @@ While the number is shown in the center, user needs to input the letter that is 
 
 Goal of the game is to match all the letters with corresponding numbers.  Score in the top right corner should be updated automatically.
 
-While hame is in progress, button that starts the game will change text to “stop” and can stop and reset the game so user can restart it. Also, difﬁculty switch should be disabled while in progress. 
+While game is in progress, button that starts the game will change text to “stop” and can stop and reset the game so user can restart it. Also, difﬁculty switch should be disabled while in progress. 
 
 Tips: 
 
