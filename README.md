@@ -21,3 +21,7 @@ Tips:
 - Task should be done in vanilla JS. It should be optimized from Chrome, so most of the new JS syntax can be used. 
 
 We don’t care about the design and styling. Attached screen is only a mockup. You can change the layout if needed, and use any of the CSS frameworks or themes.
+
+## Radovi
+
+- https://github.com/MilosAksic/TypingGame
