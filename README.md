@@ -28,3 +28,4 @@ We don’t care about the design and styling. Attached screen is only a mockup. 
 - https://github.com/b-b90/typing---game
 - https://github.com/Andjelka90/typing-game
 - https://github.com/mrakaconi/Typing-game
+- https://stefancvetincanin.github.io/typing-game/
